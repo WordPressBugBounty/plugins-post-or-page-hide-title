@@ -1,0 +1,1 @@
+# plugins-post-or-page-hide-title
